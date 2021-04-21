@@ -2,7 +2,7 @@
 
 This project was conducted as part of the master's thesis "Theory and Application of Named Entity Recognition in the Digital Humanities with a Focus on 17th Century Historical Texts". The goal was to find out to what extent NER tools can be applied to German historical texts and what results they provide. In addition, a closer look was taken at the application of NER with spaCy. A small NER model was trained and applied to a travelogue from 1650 by Johann Georg Metzger. 
 
-The experiments in this project were done with spaCy v2.3 (https://v2.spacy.io/usage/spacy-101) and NLTK (https://www.nltk.org/). 
+The experiments in this project were done with spaCy v2.3 (https://v2.spacy.io/usage/spacy-101), NLTK (https://www.nltk.org/) and the acdh-spacytei modul (https://pypi.org/project/acdh-spacytei/)
 
 ## Data 
 
